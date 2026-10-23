@@ -1,0 +1,16 @@
+{
+  "name": "forever-us",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Romantic proposal + date planner with MongoDB, ready for Vercel",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "mongodb": "^6.10.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
